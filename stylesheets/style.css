@@ -1,0 +1,13 @@
+
+* {
+    
+    max-width: 960px;
+    
+    background-color : lightgray
+}
+a:hover
+{
+    text-decoration: none;
+    color: grey;
+
+}
